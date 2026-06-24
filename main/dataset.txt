@@ -1,0 +1,1046 @@
+VELAMMAL.ORG RAG CLEANED TEXT DATASET
+Source site: https://velammal.org/
+Record count: 23
+Format: plain text records with metadata followed by cleaned body text.
+Cleaning notes: removed repeated navigation, footer/contact boilerplate, social links, injected spam text, image labels, empty controls, testimonials, duplicate long boilerplate sections, and repeated campus FAQ/alumni blocks except campus-specific location details where available. Text is ASCII-normalized for ingestion stability.
+=== DOCUMENT START ===
+doc_id: velammal-001
+title: Velammal New Gen Edu Network
+url: https://velammal.org/
+category: homepage_overview
+
+text:
+Journey So Far
+VELAMMAL GROUP
+We started with a small school, few students, one Velammal Educational Trust and a dedicated set of teachers back in 1986. Today we are an educational edifice with lakhs of students, hundreds of teachers and several top-notch institutions growing under our umbrella. Our institutional breadth spans from Kindergarten (KG) to Post-Graduate levels. With focus on evolving our teaching and learning practices to meet the best of global standards the group pioneered the Velammal New Gen Edu Network mission.
+Amalgam of cutting-edge educational institutions that provide the best of modern educational programmes.
+Velammal New-Gen Schools
+New Age CBSE Schools
+Velammal Vidhyashram
+Premium CBSE Schools
+Edubba & Velammal Global Schools
+Following Cambridge Curriculum
+Velammal New-Gen Kids
+Pre Kg - UKG
+The Road to a Promising Future
+Our institutional breadth spans from Kindergarten (KG) to Post-Graduate levels. With focus on evolving our teaching and learning practices to meet the best of global standards the group pioneered the Velammal New Gen Edu Network mission.
+Years of Excellence: 36
+No. of Institutions: 25
+No. of Students: 35090
+No. of Staff: 2033
+IIT-JEE Ranks: 145
+NEET Ranks: 190
+Deeply Passionate Educationists & Entrepreneurs
+Shri M.V. Muthuramalingam
+Chairman
+Shri M.V.M. Velmurugan
+CEO
+A team that believes that education will create globally competitive individuals
+Velammal New Gen Edu Network - 'Complete learning for teachers and learners alike.'
+Know our Principals
+Mr.Justin Thiraviam
+Sr. Principal
+M.A., B.Ed., M.Phil., M.B.A.,
+Mrs.Hemalatha D
+Principal
+B.Sc., B.Ed.,
+Mrs. Ruth Brewart
+Principal
+M.A., B.Ed., M.Phil.,
+Mr. Shenbagaraj.M
+Principal
+M.Sc., B.Ed.,
+Mrs.Tamilselvi L
+Principal
+M.Sc., M.B.A., B.Ed.,
+Mr.Perumal R
+Principal
+M.Sc., M.Ed., M.Phil.,
+Mr.Gnanasekaran S A
+Sr. Principal
+M.A., B.Ed., M.Phil., MBA.,
+Mrs.Seema Singh dogra
+Principal
+B.Sc., B.Ed., L.L.B.,
+Mrs.Roselin Christopher
+Principal
+M.A., M.Sc., B.Ed., M.Phil.,
+Mrs Anuradha Eshwara
+Principal
+B.Sc., M.A., M.Ed., C.I.D.T.T., C.A.E.,
+Mrs.L S Banumathi
+Principal
+M.Sc., M.A., B.Ed.,
+Mrs.Lourdez Mercy Juliana A
+Principal
+M.A., B.Ed., D.E.C.E.,
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-002
+title: Admissions
+url: https://velammal.org/admission/
+category: admissions
+
+text:
+Online Admission Enquiry Form
+Selection Procedure
+Pre KG to Grade 2: Direct Admission
+Entry Level Admissions ( PKG ) are suspended at our Velammal Matriculation Higher Secondary School .
+Grade 3 and above: Solely based on the performance in the MCQ Learning Level Identification (LLI) in Math, English & Science.
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-003
+title: Academics & Beyond
+url: https://velammal.org/academics-and-beyond/
+category: academics
+
+text:
+Academics & Beyond - Velammal New Gen Edu Network
+-
+" The Academic Platform extended through an Annual Curriculum Plan (ACP) includes educational practices that are very specific to us.
+We implement individual components of our comprehensive ACP in a way that no child is left behind in the academic journey . The academic journey of the kids here is fun-filled and experiential in nature only to realise the big picture of mastery in learning.
+By realising our segment-specific milestones of getting children Learning Ready at the KG level, Reading Ready at the lower primary level, Concept Consolidation at the primary level, Concept Application at the upper primary or the middle school level, we make sure that children get exam ready and career ready as they step into the board classes.
+Our outcome-driven academic framework for the teaching learning process is a product of our design thinking process which paves way for a sound pedagogical strategy that works for the development of essential knowledge and skills in children. This strategy intricately weaves our instructional plans concept-wise for the core subjects and skill-wise for the languages.
+Our instructional plans take inspiration from board specified guidelines as well as successful global theories and practices especially UBD i.e, Understanding By Design, UDL-Universal design for learning, multiple intelligences, Project Zero's Thinking routines, art integration in core subjects, VITAL-Values integrated in teaching and learning and so on.
+These create a great learning ecosystem for all the Velammalians to become happy individuals and help us achieve our segment-specific goals. Plugging of life-skill activities, activities to enhance study skills and courses to develop futuristic skills in our academic calendar help us celebrate our "Learning festivals" and "Project days" with excitement and extreme contentment whence our learners showcase the skills attained.
+Most of our campuses have sprawling playgrounds for physical education needs and to prepare children for zonal and national sports events. Our recent venture into blended learning programs creates opportunities for students to take up scholastic and co scholastic courses online too.
+Blending best of global and local education practices
+New-Gen Schools
+Targeting the segment-specific learning outcomes, the teaching learning process in our New-Gen schools adheres to an academic framework that aligns to the development of 21 Century skills (4Cs, 2R)in children helping them learn to learn for emerging careers of tomorrow through proper reflective procedures in the classroom. A Program based on the CBSE curriculum connecting the local relevance to global thinking delivered through global teaching practices, offered in an environment conducive to learning with modern methodologies and a touch of technology to prepare thought leaders for the future through a gamut of curricular and extracurricular programs.The pedagogical processes are a thorough blend of global and local practices giving the student all that is required to become a global citizen and face the competitive national exams and board with ease.
+Nationally renowned CBSE curriculum delivered using global teaching practices.
+Blended Learning
+with exposure to newer technological tools for learning thereby preparing students for the future.
+Regular Planned
+student-led events in the annual academic calendar to develop the required leadership skills.
+Inquiry-based interdisciplinary
+approach for the right Learning connects with a small student-to-facilitator ratio.
+Personalised & adaptive
+formative assessment to equip students for the summative assessments and competitive exams.
+Rigorous academics and individual support to compete in global new world
+Vidhyashram Schools
+Targeting the segment-specific learning outcomes, the teaching learning process in our Vidhyashram schools adheres to an academic framework which is again an outcome driven one but a strict PDCA(PLAN-DO-CHECK-ACT) model targeting mastery in Learning. A program based on CBSE curriculum with emphasis on developing innovative minds and deeply engaging academics to prepare and ace competitive exams. Focus on holistic development with a choice of sports and extracurricular activities. Conventional yet structured pedagogical processes equip learners with traits for becoming a confident and happy individual. The academic rigour with right remedial procedures help students to progress steadily towards success in the board exams. Skills and character attained through the process equip them with self-learning techniques adequate to face any new situation in life. Following is the road map for the targeted mastery learning in our Vidhyashram students.
+Emphasis on developing innovative minds & deeply engaging academics to prepare & ace competitive exams
+Teaching-Learning
+process with structured lectures, well designed assignments and a touch of technology for sustained interest.
+Concept-specific
+assessments to identify areas to strengthen towards mastery learning and plan coaching for NEET, IIT,CLAT,CPT aspirants.
+Well designed
+weekly club activities for the co scholastic domain towards talent identification and enrichment.
+Active student
+Engagement through Subject-specific approach with a highlight of cross-curricular links and use of specific thinking routines.
+Building foundations for life-long learning
+New Gen Kids
+A three year program that nurtures the child to be learning ready focusing on the social, emotional, physical and cultural aspects through academic experiences .An interactive approach includes monitoring the child's progress on a daily, weekly and end of thematic cycle.
+Nurtures your child to be learning ready by focusing on the social, emotional, physical & cultural aspects through academic experiences
+Child-centric
+learning approach in a fun-filled and inviting environment which enables the child to be a unique independent individual.
+Language & Literacy
+skills are encouraged through songs, rhymes, stories, guided and independent reading activities along with traditional phonics program.
+Learning materials
+and experiences are provided to walk through the steps of engage, explore, explain, elaborate and evaluate.
+Programs & Games
+help in enhancing children's global citizenship. The G1 program prepares children for a smooth transition to grade class.
+If you wish to make an apple pie from scratch,
+you must first invent the universe.
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-004
+title: Fees Payment
+url: https://velammal.org/fees-payment/?utm_source=website&
+category: fees
+
+text:
+Fees Payment - Velammal New Gen Edu Network
+-
+VNGS Pallikaranai
+Payment
+VNGS Medavakkam
+Payment
+VNGS Madhavaram (KG)
+Payment
+VNGS Madhavaram Grade 1 & above
+Payment
+VNGS Sholinganallur
+Payment
+VNGS Surapet
+Payment
+VNGS Thiruvottiyur
+Payment
+VNGS Navalur
+Payment
+VV Ambattur (KG)
+Payment
+VV Ambattur Grade 1 & above
+Payment
+VV Guduvanchery Grade 1 & above
+Payment
+VNGK Guduvanchery ( KG )
+Payment
+VV Nedungundram
+Payment
+VV Padappai
+Payment
+VV Mambakkam
+Payment
+VGS Puzhal
+Payment
+VMHSS Surapet
+Payment
+VV Surapet
+Payment
+VNGS Kelambakkam
+Payment
+VV Maraimalainagar
+Payment
+VV Thiruvannamalai
+Payment
+EDUBBA Mambakkam
+Payment
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-005
+title: Velammal Vidhyashram, Ambattur
+url: https://velammal.org/velammal-vidhyashram-ambattur/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Ambattur
+Affiliation No: 1930736 Affiliated to CBSE, Delhi
+Velammal New-Gen schools are CBSE schools adapting global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGS delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. It was founded in the year 2018 with a current strength of 81 students. The school has classes from KG to Grade 9. When your child passes out of our Velammal New Gen schools they are adept in 21st century skills and competent enough to face the challenge outside.
+Enquire Now Play Video Introduction Video Mandatory Disclosure Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Ambattur?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram (CBSE) , Ambattur
+Ayyappakkam Main Road, TNHB Colony, Venkata Subramaniya Nagar,, 2, Venkateswara Nagar Main Rd, Ambattur, Chennai, Tamil Nadu 600053
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-006
+title: Velammal Vidhyashram - Dindigul
+url: https://velammal.org/velammal-vidhyashram-dindigul/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Dindigul
+(Formerly known as Big Dreamers Academy (2016-2024))
+Affiliation No: 1931036 Affiliated to CBSE, Delhi
+School was started in 2016 in name and style of Big Dreamers Academy and in 2024 Trustees together decided to change the school name with prior approval from state government via order no.rzc.No.887/D2/2024 dated 13.03.2024 to Velammal Vidhyashram run by Raja suthanthara Educational Trust
+Enquire Now Play Video Introduction Video Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Dindigul?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram, Dindigul
+C295+286, Pasumpon Nagar,
+Dindigul, Tamil Nadu - 624 005.
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-007
+title: Velammal Vidhyashram, Guduvanchery
+url: https://velammal.org/velammal-vidhyashram-guduvanchery/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Guduvanchery
+Affiliation No: 1931280 Affiliated to CBSE, Delhi
+The school was founded in the year 2019 and runs on CBSE curriculum. We offer grades 1 to 10.Currently the school has a capacity of accommodating 2300+ students.
+Velammal Vidhyashram Guduvanchery runs CBSE curriculum with special emphasis on preparing students for competitive examinations. School has a special focus on holistic development with a choice of sports and extracurricular activities.It is one of the best CBSE schools in Guduvanchery belt distinguished by its unique approach towards learning and its commitment to providing quality education. We leverage best of the practices from both traditional and contemporary schooling systems to create a unique Velammal New Gen way of education.
+Enquire Now Play Video Introduction Video Mandatory Disclosure Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Guduvanchery?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram Guduvanchery
+Nellikuppam Road, Near Cicada paper Pvt Ltd, Moolakazhani, Pankaja Ammal Nagar, Guduvanchery, Tamil Nadu 603202
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-008
+title: Velammal Vidhyashram, Mambakkam
+url: https://velammal.org/velammal-vidhyashram-mambakkam/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Mambakkam
+It started its legendary march of Excellence in Education, in the year 2014, and has since then earned the reputation of being 'the most sought after' CBSE school, in the locales of southern Chennai, from Play School to the Senior Secondary classes, offering Science, Computer Science & Commerce Group.
+The sprawling, tree filled campus is renowned for its truly enlivening ambience, conducive for learning and has drawn a strength of 3250 plus aspirants.
+Built on the impregnable edifice of Quality Education, the school has made its hallmark, both in the scholastic & co-scholastic realms, at the state and national platforms. And is now geared up to spread its wings internationally.
+Enquire Now Play Video Introduction Video Mandatory Disclosure Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Mambakkam
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram Mambakkam
+School street, Kelambakkam - Vandalur Rd, Mambakkam, Chennai, Tamil Nadu 600127
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-009
+title: Velammal Vidhyashram, Maraimalai Nagar
+url: https://velammal.org/velammal-vidhyashram-maraimalai-nagar/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Maraimalai Nagar
+Affiliation No: 1931219 Affiliated to CBSE, Delhi
+The locals reverentially consider Velammal Vidhyashram as "the Second Home"of the children, as the students enjoy the nicest of facilities, the best of caring, loving faculty and a curriculum with a practical perspective to learning. The unbiased and undivided attention to first-generation learners as well as to those from the literate background has created a very strong bonding between the school and the community. The transition from traditional learning systems to the technology enabled teaching has expanded the spectrum of knowledge.The exposure to holistic methods of teaching is aimed at moulding students into becoming self-directed, lifelong learners. Academic excellence along side the vibrant and diverse range of Co-curricular Activities and Sports offers opportunities to students to discover their new interests. The school believes in"nurturing every child's development intellectually, physically, socially and emotionally.The core values of discipline, ethics and leadership form the integral part of a students' journey to the destination of success. The school believes in"nurturing every child's development intellectually, physically, socially and emotionally.The core values of discipline, ethics and leadership form the integral part of a students' journey to the destination of sucess.
+Enquire Now Play Video Introduction Video Mandatory Disclosure Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Maraimalai Nagar?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram Maraimalainagar
+Gudevancheri - Maraimalai Nagar Road, Kalivandhapattu, Perumathunallur, Chennai, Tamil Nadu 603209
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-010
+title: Velammal Vidhyashram, Padappai
+url: https://velammal.org/velammal-vidhyashram-padappai/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Padappai
+Affiliation No: 1930721 Affiliated to CBSE, Delhi
+The campus was founded in the year 2015 with top notch infrastructure featuring neatly squared academic building, a well-maintained football field, kids play corner, and more.The school has a capacity of 2000+ students .The Padappai Campus offers grades Pre-KG to Grade XII based on CBSE curriculum.
+Like our other Vidhyashram brand schools, the focus is on building a robust foundation through deeply engaging academics and helping our students ace competitive examinations. School runs a well rounded program based on CBSE curriculum. Focus on holistic development with a choice of sports and extracurricular activities is another hallmark of the campus. We can proudly claim that we are one of the few schools in this belt of Chennai with a sprawling playground and plenty of space for children to enjoy.
+Enquire Now Disclosure Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Padappai?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram (CBSE) Padappai
+Velammal New Gen Edu Network,, Salamangalam Village, Padappai,, Nariyambakkam, Chennai, Tamil Nadu 602301
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-011
+title: Velammal Vidhyashram, Padur
+url: https://velammal.org/velammal-vidhyashram-padur/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Padur
+Affiliation No: 1931257 Affiliated to CBSE, Delhi
+The school aims at 'Building a Community of Learners, Empowered to be Achievers', through its academic programmes. The well-defined Academic Learning Outcome, at each level, acts as a precursor in assimilating knowledge and achieving academic excellence.
+The Primary classes, the focus is on 'Conceptual Comprehension' which enables students for 'Application of Knowledge' in the Middle school. And in the Secondary level, students are trained to knowledge excel in their Board Examinations. Also, students are oriented for career guidance. Sports education, co-curricular activities to hone talents & skills and the training for futuristic skills, find an equally important place in the curriculum. The state -of -the- art- infrastructure and the facilities offered, add to the safe and nurturing learning environment.
+Enquire Now Play Video Introduction Video Mandatory Disclosure Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Padur?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram Padur
+Apartment, Bella Tuscany XS Real,Rajiv Gandhi Salai, Old Mamallapuram Rd, next to XS Real Bella Tuscany, Padur, Tamil Nadu 603103
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-012
+title: Velammal Vidhyashram, Surapet
+url: https://velammal.org/velammal-vidhyashram-surapet/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Surapet
+Affiliation No: 1930296 Affiliated to CBSE, Delhi
+Velammal Vidhyashram schools are CBSE schools adapting global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+Velammal Vidhyashram schools delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. It was founded in the year 2010 with a current strength of 13000+ students .The school has classes from Play School to Grade 12. When your child passes out of our Velammal New Gen schools they are adept in 21st century skills and competent enough to face the challenge outside.
+Enquiry Now Play Video Introduction Video Mandatory Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Surapet?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram CBSE Surapet
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-013
+title: Velammal Vidhyashram, Somangalam
+url: https://velammal.org/velammal-vidhyashram-somangalam/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Somangalam
+Velammal Vidhyashram schools are CBSE schools adapting global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGS delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. It was founded in the year 2019 with a current strength of 81 students .The school has classes from KG to Grade 9. When your child passes out of our Velammal New Gen schools they are adept in 21st century skills and competent enough to face the challenge outside.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Somangalam?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram Somangalam
+No - 14/b, Velammal Garden, 14/1c, 14/1c, near to APJ.Abdul Kalam Nagar Survey, Somangalam, Puduppair, Tamil Nadu 600133
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-014
+title: Velammal Vidhyashram, Tiruvannamalai
+url: https://velammal.org/velammal-vidhyashram-tiruvannamalai/
+category: campus_vidhyashram
+
+text:
+Velammal Vidhyashram, Tiruvannamalai
+Velammal Vidhyashram schools are CBSE schools adapting global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGS delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement.The school has classes from Grade 1 to Grade 8. When your child passes out of our Velammal New Gen schools they are adept in 21st century skills and competent enough to face the challenge outside.
+Enquire Now Play Video Introduction Video Mandatory Disclosure Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal Vidhyashram, Tiruvannamalai?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal Vidhyashram, Thiruvannamalai
+Manjapoondi Village, Kil Siruppakam Post - 606 707.
+Tiruvannamalai Tk & District
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-015
+title: Velammal New-Gen School, Annex Medavakkam
+url: https://velammal.org/velammal-new-gen-school-annex/
+category: campus_new_gen_school
+
+text:
+Velammal New Gen School - Annex
+Velammal New Gen School - Annex, a CBSE school strives to prepare its students for the challenges of an ever-changing world. Our student-centric, values-driven and holistic education aims to help our students harness the joy of learning, strengthen their character, nurture an entrepreneurial dare and develop their skills and abilities for innovation and future learning.
+We guide our students to understand the interconnectedness across subjects and see the relation between what they learn in school and the real word. Our students are given the freedom to explore, stand and stare and build inroads into the elements of human existence and life. They are encouraged to be inquisitive and use their imagination to draw on their creativity and seek solutions to real world problems. Our teachers are dedicated professionals who will always go the extra mile in order that our children realize inner potential.
+Enquire Now Play Video Introduction Video Disclosure
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New Gen School - Annex
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal NewGen School
+Vadakkupattu Main Rd, near Isha Yara Apartments, Medavakkam, Chennai, Tamil Nadu 600100
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-016
+title: Velammal New-Gen Kids, Ambattur
+url: https://velammal.org/velammal-new-gen-kids-ambattur/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Ambattur
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Ambattur?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Ambattur
+No.15/A, Sundaresan, Ekambara Iyer Street, near Thangal Park, Venkatapuram, Ambattur, Chennai, Tamil Nadu 600053
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-017
+title: Velammal New-Gen Kids, Kolathur
+url: https://velammal.org/velammal-new-gen-kids-kolathur/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Kolathur
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. It was founded in the year 2019 with a current strength of 81 students .The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Kolathur ?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Kolathur
+No: 5&6, basement & ground floor, Selvi Nagar, kolathur, behind Temple school, Chennai, Tamil Nadu 600099
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-018
+title: Velammal New-Gen Kids, Periyar Nagar
+url: https://velammal.org/velammal-new-gen-kids-periyar-nagar/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Periyar Nagar
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Periyar Nagar ?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Periyar Nagar
+18th St, Periyar Nagar West, Perambur, Chennai, Tamil Nadu 600082
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-019
+title: Velammal New-Gen Kids, Perungalathur
+url: https://velammal.org/velammal-new-gen-kids-perungalathur/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Perungalathur
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Perungalathur ?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Perungalathur
+No:8, antony villa, sampangi street, Peerkankaranai, New Perungalathur, Chennai, Tamil Nadu 600063
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-020
+title: Velammal New-Gen Kids, Dindigul
+url: https://velammal.org/velammal-new-gen-kids-dindigul/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Dindigul
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. It was founded in the year 2019 with a current strength of 60 students .The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Dindigul ?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Dindigul
+No 10, Gandhipuram, opposite Naidu Kalyana Mandapam, Elil Nagar, Dindigul, Tamil Nadu 624001
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-021
+title: Velammal New-Gen Kids, Tiruvannamalai
+url: https://velammal.org/velammal-new-gen-kids-tiruvannamalai/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Tiruvannamalai
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. It was founded in the year 2019 with a current strength of 81 students .The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Tiruvannamalai ?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Tiruvannamalai
+No12, near District Collector Office, Kurinji nagar, Vengikkal, Tiruvannamalai, Tamil Nadu 606604
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-022
+title: Velammal New-Gen Kids, Sembakkam
+url: https://velammal.org/velammal-new-gen-kids-sembakkam/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Sembakkam
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement. It was founded in the year 2019 with a current strength of 60 students .The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Sembakkam ?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Sembakkam
+Plot no B&C, sangu udhya amman koil street, 2nd Cross St, Chennai, Tamil Nadu 600073
+=== DOCUMENT END ===
+
+=== DOCUMENT START ===
+doc_id: velammal-023
+title: Velammal New-Gen Kids, Vinayagapuram
+url: https://velammal.org/velammal-new-gen-kids-vinayagapuram/
+category: campus_new_gen_kids
+
+text:
+Velammal New-Gen Kids, Vinayagapuram
+Velammal New Gen Kids Centers adapts global practices and tech integration. We pride ourselves for providing the quality of our educational programs, the professionalism of our staff, the enthusiasm of our students and the high level of support provided by parents and community members.
+VNGK delivers the best to maximize students' global competence by making them collaborate, communicate, think critically and be digitally fluent. We Develop the School Values like a high standard of teaching and learning, safe and welcoming environment, family and community involvement.The play school has classes from Play School, Junior KG to Senior KG.
+Enquire Now Play Video Introduction Video
+Location
+Curriculum
+CBSE
+18th Nov, 2025
+Admissions' Start
+Infrastructure
+State of the Art
+Specialization
+Project Based Learning
+Why should a parent consider the Velammal New-Gen Kids, Vinayagapuram ?
+Based on the CBSE Curriculum that utilises contemporary teaching methods and state-of-the-art amenities to prepare thought leaders for the future.
+Academics
+Velammal's advantage of academic rigour and iterative approach where a student's academic progress is monitored on a daily, weekly and end of term cycle. Velammal NewGen schools offer a gamut of co-curricular activities like Yoga, Karate, Music, Zumba, Arts & Physical Education leading to an overall deveopment of your ward.
+Curriculum
+There is a great focus and emphasis on social and communication skills, as well as collaboration and exchange of ideas. The Math camps, Science camps, Drama in classroom programs, cooperative learning time in VNGS schools are all samples of this. This is in contrast to the rote learning that happens in ordinary schools.
+Tech Integration
+Parents can download the Velammal Digital App for daily elogs (info on what happens in school period by period), homework info and athena online assessments. Online APPs are used to enhance the teaching and learning process. Our Google Classrooms are virtual classrooms that engage students during the vacation time also.
+Glimpses from the Vibrant Classrooms & Big Playgrounds
+We ensure our students hone their skills in the best learning environment.
+Academics & Extracurricular Overview
+Key Highlights
+Academic rigour with regular revisions, assessments & open day
+Tech-driven academic activities and projects for skill development
+Modern amenities and a touch of technology for today's time
+Gamut of additional learning programs to engage young minds to the fullest
+Structured Academic Framework for developing learning rigour in the student
+Robust digital assessment procedures to measure learning
+Velammal New Gen Edu Network provides best of education to its students by incorporating global best practices in teaching and learning and blending them with our own learnings of the past 35 years. Our education philosophy centres around building strong foundation for students to succeed in a competitive new world.
+School Location
+Velammal New-Gen Kids, Vinayagapuram
+Sai Towers, Plot No. 1 & 2, Sri Sai Nagar, Surapet Main Rd, Vinayakapuram, Chennai, Tamil Nadu 600099
+=== DOCUMENT END ===
