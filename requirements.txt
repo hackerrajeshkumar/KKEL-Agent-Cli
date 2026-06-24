@@ -1,3 +1,0 @@
-openai
-faiss-cpu
-numpy
