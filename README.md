@@ -406,31 +406,4 @@ RAG_DB=/var/lib/rag/state.db python KKE-Lab-Agent.py dataset.txt  # custom state
 
 ---
 
-## Future Roadmap
-
-Tool/intent selection stays **model-driven, never hardcoded**. Planned, in priority order for answer quality:
-
-1. **Hybrid retrieval** — fuse BM25 keyword scoring with semantic embeddings so exact terms (names, IDs, titles) are never missed by pure vector search. *(Directly targets recall — the dominant risk.)*
-2. **Cross-encoder reranking** — re-score the top-k so the single best passage rises to the top.
-3. **Metadata filtering** — structured filters (category, date, source type) layered on top of hard tenant isolation.
-4. **Knowledge-graph integration** — for multi-hop and relational questions vector search handles poorly.
-5. **Agentic query decomposition + verifier loop** — split complex questions and re-check each draft against the evidence.
-6. **RAGAS evaluation** — automated faithfulness / answer-relevancy / context-precision/recall scoring.
-7. **Approximate indexing** — `IndexIVFFlat` / `IndexHNSWFlat` to scale to millions of vectors per tenant.
-
----
-
-## Interview Talking Points
-
-Concise, defensible claims you can stand behind under questioning:
-
-- **"Isolation is structural, not a runtime check."** A separate FAISS index per tenant plus a model-untrusted `RunContextWrapper[TenantContext]` means there is *no query path* that returns another tenant's data — even under prompt injection. The model never sees, supplies, or chooses the tenant.
-- **"I build on the SDK where it's strong and own RAG where it's silent."** `Agent`/`Runner`/`SQLiteSession`/`function_tool` handle the loop, streaming, and memory; retrieval, isolation, and incremental ingestion are mine because the SDK doesn't do them.
-- **"Embeddings are computed once."** SQLite is the source of truth; FAISS is a rehydratable cache. SHA-256 incremental ingestion re-embeds only changed files; restarts re-embed nothing.
-- **"I optimize the controllable risk."** The dominant RAG failure is recall, not generation — so the roadmap is hybrid search + reranking, not prompt tinkering. A faithful model can't answer from a chunk retrieval never surfaced.
-- **"I refuse to overclaim accuracy."** The system guarantees *grounding discipline* — cite or abstain — not a percentage. Abstention is a correct outcome.
-- **"Persistent multi-tenant memory required going beyond the stock loop."** `run_demo_loop` is in-memory only; I use `Runner.run_streamed` with `session=` to get persistence + tenant switching + streaming in one loop, keeping `/demo` for the stock experience.
-
----
-
 <sub>Technical documentation for <code>KKE-Lab-Agent.py</code>. All claims reflect the actual implementation in that file. Written for the system as deployed and review-ready.</sub>
