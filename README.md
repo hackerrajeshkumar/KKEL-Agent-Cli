@@ -135,28 +135,51 @@ You will see the ingestion progress, followed by a `you>` prompt.
 
 ## 🗣️ Sample Queries
 
-1. **General Chat (No Tool Call)**: *"Hello, what can you do?"*
-2. **Knowledge Retrieval (search_knowledge_base)**: *"What are the key policies regarding remote work in the employee handbook?"*
-3. **Corpus Overview (corpus_overview)**: *"How many documents are currently indexed in your database?"*
-
-## 📄 Retrieved Chunks Example
-
-When a retrieval occurs, the system internally surfaces context formatted as follows:
-
-```text
-[1] source=dataset.txt :: Employee Handbook (score=0.892)
-[Employee Handbook]
-Remote work is permitted for all tier-2 employees up to 3 days a week. Core hours are 10 AM to 3 PM EST.
-
-[2] source=dataset.txt :: IT Security Policy (score=0.745)
-[IT Security Policy]
-When working remotely, employees must connect via the enterprise VPN to access internal services.
-```
+1. **"How many branches is there in Velammal Institute?"**
+2. **"What the padur branch location?"**
+3. **"Chairman name?"**
 
 ## 📝 Sample Answers
 
-**User**: *"Can tier-2 employees work remotely?"*
-**Agent**: *"Yes, according to the Employee Handbook (dataset.txt), tier-2 employees are permitted to work remotely for up to 3 days a week. However, please note that core working hours of 10 AM to 3 PM EST apply, and you must use the enterprise VPN to access internal services (IT Security Policy)."*
+**User**: *"How many branches is there in Velammal Institute?"*
+**Agent**: *"According to the uploaded Velammal dataset, the Velammal Group has 25 institutions (branches/campuses). It states:
+
+Years of Excellence: 36
+No. of Institutions: 25
+No. of Students: 35,090
+No. of Staff: 2,033
+
+The institutions are spread across:
+- Velammal New-Gen Schools
+- Velammal Vidhyashram Schools
+- Edubba & Velammal Global Schools
+- Velammal New-Gen Kids Centers
+
+Answer: 25 institutions/branches."*
+
+**User**: *"What the padur branch location?"*
+**Agent**: *"According to the uploaded Velammal dataset, the Velammal Vidhyashram, Padur branch is located at:
+
+Velammal Vidhyashram Padur
+Apartment, Bella Tuscany XS Real,
+Rajiv Gandhi Salai, Old Mamallapuram Rd,
+next to XS Real Bella Tuscany,
+Padur, Tamil Nadu 603103.
+
+Additional details from the document:
+Affiliation No: 1931257
+Curriculum: CBSE
+Infrastructure: State of the Art
+Specialization: Project Based Learning"*
+
+**User**: *"Chairman name?"*
+**Agent**: *"According to the uploaded Velammal dataset, the Chairman of the Velammal Group is:
+
+Shri M.V. Muthuramalingam – Chairman.
+
+The document also lists:
+Shri M.V. Muthuramalingam — Chairman
+Shri M.V.M. Velmurugan — CEO"*
 
 ## ⚠️ Limitations
 
